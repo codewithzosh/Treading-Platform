@@ -8,7 +8,8 @@ link : https://watery-lunaria-74f.notion.site/Full-Stack-Treading-Plateform-b811
 
 ## Er Diagram
 
-`+---------------------+           +-----------------+
+`
++---------------------+           +-----------------+
 |       Users         |<--------->|    Wallets      |
 |---------------------|           +-----------------+
 | id                  |               ^            
@@ -147,4 +148,5 @@ link : https://watery-lunaria-74f.notion.site/Full-Stack-Treading-Plateform-b811
 | verification_type   |
 | send_to             |
 +---------------------+
+
 `
