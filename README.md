@@ -1,4 +1,5 @@
 # Treading-Platform
+full stack project using spring boot and react
 
 ## Database Design & Tables
 
