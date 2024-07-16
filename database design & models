@@ -1,5 +1,6 @@
-Tables and Relationships
-Users Table
+#Tables and Relationships
+
+##Users Table
 
 id (Primary Key)
 fullName
